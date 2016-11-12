@@ -39,3 +39,7 @@ artworks for openFrameworks
 ### [Blob3_7](Blob3_7/)
 2016.11.11  
 <img src="art/blob3_7.gif" width=400 />
+
+### [Blob3_8](Blob3_8/)
+2016.11.12  
+<img src="art/blob3_8.gif" width=400 />
