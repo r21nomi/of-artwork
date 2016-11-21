@@ -63,3 +63,7 @@ artworks for openFrameworks
 ### [Transform5](Transform/Transform5)
 2016.11.20  
 <img src="art/transform5.gif" width=400 />
+
+### [Pattern1](Pattern/Pattern1)
+2016.11.21  
+<img src="art/pattern1.gif" width=400 />
