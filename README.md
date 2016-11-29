@@ -75,3 +75,7 @@ artworks for openFrameworks
 ### [Pattern3](Pattern/Pattern3)
 2016.11.27  
 <img src="art/pattern3.gif" width=400 />
+
+### [Pattern4](Pattern/Pattern4)
+2016.11.29  
+<img src="art/pattern4.gif" width=400 />
