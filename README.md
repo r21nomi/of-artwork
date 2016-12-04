@@ -91,3 +91,7 @@ artworks for openFrameworks
 ### [Pattern7](Pattern/Pattern7)
 2016.12.03  
 <img src="art/pattern7.gif" width=400 />
+
+### [Pattern8](Pattern/Pattern8)
+2016.12.04  
+<img src="art/pattern8.gif" width=400 />
