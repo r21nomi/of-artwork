@@ -95,3 +95,7 @@ artworks for openFrameworks
 ### [Pattern8](Pattern/Pattern8)
 2016.12.04  
 <img src="art/pattern8.gif" width=400 />
+
+### [Delaunay1](Delaunay/Delaunay1)
+2016.12.05  
+<img src="art/delaunay1.gif" width=400 />
