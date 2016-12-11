@@ -1,5 +1,6 @@
 # of-artwork
-artworks for openFrameworks
+artworks with openFrameworks.  
+You can see these artworks as GIF on [tumblr](https://ofartwork.tumblr.com/).
 
 ### [Blob](Blob/)
 <img src="art/blob.gif" width=400 />
