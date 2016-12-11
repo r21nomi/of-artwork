@@ -115,3 +115,7 @@ artworks for openFrameworks
 ### [Delaunay5](Delaunay/Delaunay5)
 2016.12.10  
 <img src="art/delaunay5.gif" width=400 />
+
+### [Delaunay6](Delaunay/Delaunay6)
+2016.12.11  
+<img src="art/delaunay6.gif" width=400 />
