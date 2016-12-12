@@ -2,48 +2,48 @@
 artworks with openFrameworks.  
 You can see these artworks as GIF on [tumblr](https://ofartwork.tumblr.com/).
 
-### [Blob](Blob/)
-<img src="art/blob.gif" width=400 />
+### [Blob1](Blob/Blob1)
+<img src="art/blob1.gif" width=400 />
 
-### [Blob2](Blob2/)
+### [Blob2](Blob/Blob2)
 2016.10.25  
 <img src="art/blob2.png" width=400 />
 
-### [Blob2_2](Blob2_2/)
+### [Blob3](Blob/Blob3)
 2016.10.26  
-<img src="art/blob2_2.gif" width=400 />
+<img src="art/blob3.gif" width=400 />
 
-### [Blob3](Blob_3/)
+### [Blob4](Blob/Blob4)
 2016.10.31  
-<img src="art/blob3.png" width=400 />
+<img src="art/blob4.png" width=400 />
 
-### [Blob3_2](Blob3_2/)
+### [Blob5](Blob/Blob5)
 2016.11.01  
-<img src="art/blob3_2.gif" width=400 />
+<img src="art/blob5.gif" width=400 />
 
-### [Blob3_3](Blob3_3/)
+### [Blob6](Blob/Blob6)
 2016.11.04  
-<img src="art/blob3_3.gif" width=400 />
+<img src="art/blob6.gif" width=400 />
 
-### [Blob3_4](Blob3_4/)
+### [Blob7](Blob/Blob7)
 2016.11.06  
-<img src="art/blob3_4.gif" width=400 />
+<img src="art/blob7.gif" width=400 />
 
-### [Blob3_5](Blob3_5/)
+### [Blob8](Blob/Blob8)
 2016.11.07  
-<img src="art/blob3_5.gif" width=400 />
+<img src="art/blob8.gif" width=400 />
 
-### [Blob3_6](Blob3_6/)
+### [Blob9](Blob/Blob9)
 2016.11.10  
-<img src="art/blob3_6.gif" width=400 />
+<img src="art/blob9.gif" width=400 />
 
-### [Blob3_7](Blob3_7/)
+### [Blob10](Blob/Blob10)
 2016.11.11  
-<img src="art/blob3_7.gif" width=400 />
+<img src="art/blob10.gif" width=400 />
 
-### [Blob3_8](Blob3_8/)
+### [Blob11](Blob/Blob11)
 2016.11.12  
-<img src="art/blob3_8.gif" width=400 />
+<img src="art/blob11.gif" width=400 />
 
 ### [Transform1](Transform/Transform1)
 2016.11.15  
