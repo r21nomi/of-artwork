@@ -3,6 +3,12 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     ofBackground(255);
+    ofEnableLighting();
+    light.setPosition(ofGetWidth() / 2, ofGetHeight() / 2, 300);
+    light.enable();
+    
+    glEnable(GL_DEPTH_TEST);
+    glEnable(GL_NORMALIZE);
     
     float size = 100;
     for (int x = 0, width = ofGetWidth(); x < width; x += size * 1.5) {
